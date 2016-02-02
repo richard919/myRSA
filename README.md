@@ -1,11 +1,10 @@
 # myRSA
 
-
-
    richards_RSA.py is an example of the RSA cryptosystem I created for
    fun in order to learn how RSA encryption works.
 
    WHAT DOES THIS PROGRAM DO:
+   
    This program is my implimentation of the RSA cryptosystem.  A
    cryptosystem is a set of tools used to communicate secret messages
    over a (possibly) public network. TheRSA cryptosystem is an 
@@ -23,6 +22,7 @@
    Bob's private key, that way Bob can easily decrypt messages.
    
    HOW THIS PROGRAM WORKS:
+   
    richard_RSA.py encrypts messages based off of an encryption 
    function stored in a file called ownersnames_pubic_key.txt.  
    The private key that the owner needs to decrypt messages is stored
