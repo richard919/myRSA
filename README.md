@@ -22,7 +22,7 @@
    however, E_bob^-1 should be easy to compute with the knowledge of 
    Bob's private key, that way Bob can easily decrypt messages.
    
-   HOW THIS PROGRAM WORKS
+   HOW THIS PROGRAM WORKS:
    richard_RSA.py encrypts messages based off of an encryption 
    function stored in a file called ownersnames_pubic_key.txt.  
    The private key that the owner needs to decrypt messages is stored
