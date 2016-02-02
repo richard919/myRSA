@@ -1,6 +1,6 @@
 #######################################################################
 #
-#   richards_RSA.py is an HIGHLY VULNERABLE cryptosystem I created for
+#   richards_RSA.py is an example of the RSA cryptosystem I created for
 #   fun in order to learn how RSA encryption works.
 #
 #   WHAT DOES THIS PROGRAM DO:
