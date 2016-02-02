@@ -81,7 +81,7 @@
 #
 #   NOTES ABOUT THE CODE:
 #
-#       ##  -   double pound signs are used when to comment out code
+#       ##  -   double pound signs are used to comment out code
 #               that was used during debugging
 #
 #######################################################################
